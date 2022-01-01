@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Haitham</h2>
-<img height="350px" width="1000px" src="./assets/js.gif">
+<img height="350px" width="100%" src="./assets/js.gif">
 
 ### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
 
@@ -46,4 +46,3 @@
 
 </p>
 </a>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
