@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Haitham</h2>
-<img height="350px" width="100%" style="object-fit:cover;" src="./assets/js.gif">
+![My card name](https://cardivo.vercel.app/api?name=Haitham%20Assoli&description=H%20Passionate%20Developer&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&linkedin=Haitham%20Assoli-0077B5&github=haithamassoli&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 ### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
 
