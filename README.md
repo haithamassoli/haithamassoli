@@ -4,9 +4,6 @@
 <h2>Hey there! I'm Haitham</h2>
 ![My card name](https://cardivo.vercel.app/api?name=Haitham%20Assoli&description=Full%Stack%20Developer&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&linkedin=Haitham%20Assoli&github=haithamassoli&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
-### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
-
-
 <img alt="Night Coding" width="350px" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" align="right" />
 
 ### 🛠 &nbsp;Skills
