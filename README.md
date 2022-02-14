@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Haitham</h2>
-![Haitham's card name](https://cardivo.vercel.app/api?name=Haitham%20Assoli&description=Full%Stack%20Developer&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&linkedin=Haitham%20Assoli&github=haithamassoli&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+https://cardivo.vercel.app/api?name=Haitham%20Assoli&description=Full%Stack%20Developer&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&linkedin=Haitham%20Assoli&github=haithamassoli&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3
 
 <img alt="Night Coding" width="350px" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" align="right" />
 
