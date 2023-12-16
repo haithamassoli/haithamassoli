@@ -24,16 +24,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/haithamassoli">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=haithamassoli&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Haitham Github Status logo" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haithamassoli&layout=compact&langs_count=8&theme=algolia" />
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
