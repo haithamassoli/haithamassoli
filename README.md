@@ -29,7 +29,7 @@
 <p align="center">
 
 <a href="https://github.com/haithamassoli"> <img src="https://img.shields.io/github/followers/haithamassoli?style=social" alt="Github Logo"></a>
-<a href="mailto:haithamassoli44@gmail.com"><img src="https://img.shields.io/badge/-haithamassoli44@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/haitham-assoli-b69706a9/"><img src="https://img.shields.io/badge/-Haitham%20Assoli-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:haitham.b.assoli@gmail.com"><img src="https://img.shields.io/badge/-haitham.b.assoli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/haitham-assoli/"><img src="https://img.shields.io/badge/-Haitham%20Assoli-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 
 </p>
 </a>
