@@ -1,19 +1,18 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haithamassoli&style=plastic&label=Profile+visits&color=red"alt="Haitham Profile visits" /> </p>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Haitham Assoli
+Hi 👋  My name is Haitham Assoli
 ======================================================================================================================================
 
 Web & Mobile Javascript Developer
 ---------------------------------
 
-I build both web & mobile applications with modern technologies. Experienced working for established companies and startups and individual projects.
+I build both web & mobile applications with modern technologies. I am experienced working for established companies and startups and individual projects.
 
 ![](https://komarev.com/ghpvc/?username=haithamassoli&color=ef4444&style=flat-square&label=Github+Views)
 
 * 🌍  I'm based in Jordan
-* 🖥️  See my portfolio at [See my portfolio at](http://haithamassoli.github.io/Portfolio/)
+* 🖥️  See my portfolio at [haithamassoli.com](http://haithamassoli.github.io/Portfolio/)
 * ✉️  You can contact me at [haitham.b.assoli@gmail.com](mailto:haitham.b.assoli@gmail.com)
 * 🧠  I'm learning advanced algorithms, mathematics, And WebGL 3D developments.
-* 🤝  I'm open to collaborating on useful open-source projects that matches my tech stack.
+* 🤝  I'm open to collaborating on useful open-source projects that match my tech stack.
 
 <a href="https://www.github.com/haithamassoli" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haithamassoli?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
@@ -34,19 +33,4 @@ src="https://img.shields.io/github/followers/haithamassoli?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/haithamassoli"><img src="https://github-readme-stats.vercel.app/api?username=haithamassoli&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="haithamassoli's GitHub stats" /></a>
-
 <a href="http://www.github.com/haithamassoli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haithamassoli&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/haithamassoli"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=haithamassoli&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/haithamassoli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithamassoli&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/haithamassoli"> <img src="https://img.shields.io/github/followers/haithamassoli?style=social" alt="Github Logo"></a>
-<a href="mailto:haitham.b.assoli@gmail.com"><img src="https://img.shields.io/badge/-haitham.b.assoli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/haitham-assoli/"><img src="https://img.shields.io/badge/-Haitham%20Assoli-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-
-</p>
-</a>
