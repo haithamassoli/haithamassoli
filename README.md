@@ -9,7 +9,7 @@ I build both web & mobile applications with modern technologies. I am experience
 ![](https://komarev.com/ghpvc/?username=haithamassoli&color=ef4444&style=flat-square&label=Github+Views)
 
 * 🌍  I'm based in Jordan
-* 🖥️  See my portfolio at [haithamassoli.com](http://haithamassoli.github.io/Portfolio/)
+* 🖥️  See my portfolio at [haitham.vercel.app](https://haitham-assoli-portfolio.vercel.app/)
 * ✉️  You can contact me at [haitham.b.assoli@gmail.com](mailto:haitham.b.assoli@gmail.com)
 * 🧠  I'm learning advanced algorithms, mathematics, And WebGL 3D developments.
 * 🤝  I'm open to collaborating on useful open-source projects that match my tech stack.
