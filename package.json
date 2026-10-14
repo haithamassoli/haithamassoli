@@ -1,0 +1,13 @@
+{
+  "name": "haithamassoli-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/build-assets.mjs",
+    "stats": "node scripts/stats.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "fontkit": "^2.0.4"
+  }
+}
