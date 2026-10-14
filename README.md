@@ -141,4 +141,7 @@
   <a href="https://wakatime.com/@haithamassoli">WakaTime</a>
 </p>
 
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=haithamassoli&color=0d9488&style=flat-square&label=profile+views"></p>
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=haithamassoli&color=0d9488&style=flat-square&label=profile+views">
+  <img alt="Views since Oct 2026" src="https://api.visitorbadge.io/api/visitors?path=haithamassoli&label=views%20since%20oct%202026&labelColor=%23555555&countColor=%230d9488&style=flat-square&labelStyle=lower">
+</p>
